@@ -1,0 +1,20 @@
+# Compiled Object files
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+
+# Building
+build
+
+# emacs
+*~
+
